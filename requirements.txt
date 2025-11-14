@@ -1,8 +1,9 @@
-flask
-transformers
+flask==3.0.3
+flask-cors==4.0.1
 torch
-Pillow
-evaluate
-bert_score
-datasets
-python-dotenv
+transformers==4.44.2
+pillow==10.4.0
+evaluate==0.4.1
+datasets==2.21.0
+accelerate
+sentencepiece
